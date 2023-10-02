@@ -1,4 +1,0 @@
-I am practicing git by creating 
-different branches
-diffferent files
-and different commands
